@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937769365796",
+    "firebase_url": "https://o-que-falta.firebaseio.com",
+    "project_id": "o-que-falta",
+    "storage_bucket": "o-que-falta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937769365796:android:abf94a97714427e4f343b1",
+        "android_client_info": {
+          "package_name": "com.ranieri.oquefalta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937769365796-u2omnkbvj3lvkjt5tpo3ieo756jfshav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrnIgPOeBt-VtvMFR23ErWo-4z4ivxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937769365796-u2omnkbvj3lvkjt5tpo3ieo756jfshav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
